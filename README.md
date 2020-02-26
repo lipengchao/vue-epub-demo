@@ -18,14 +18,14 @@
 
 ### 效果图
 
-![1](C:\Users\lenovo\Desktop\project\vue-templates\vue-epub-demo\static\1.png)
+![1](https://github.com/lipengchao/vue-epub-demo/static/1.png)
 
-![settingFontSize](C:\Users\lenovo\Desktop\project\vue-templates\vue-epub-demo\static\settingFontSize.png)
+![settingFontSize](https://github.com/lipengchao/vue-epub-demo/static/settingFontSize.png)
 
-![settingTheme](C:\Users\lenovo\Desktop\project\vue-templates\vue-epub-demo\static\settingTheme.png)
+![settingTheme](https://github.com/lipengchao/vue-epub-demo/static/settingTheme.png)
 
-![settingProgress](C:\Users\lenovo\Desktop\project\vue-templates\vue-epub-demo\static\settingProgress.png)
+![settingProgress](https://github.com/lipengchao/vue-epub-demo/static/settingProgress.png)
 
-![settingFongtSize](C:\Users\lenovo\Desktop\project\vue-templates\vue-epub-demo\static\settingFongtSize.png)
+![settingFongtSize](https://github.com/lipengchao/vue-epub-demo/static/settingFongtSize.png)
 
-![settingML](C:\Users\lenovo\Desktop\project\vue-templates\vue-epub-demo\static\settingML.png)
+![settingML](https://github.com/lipengchao/vue-epub-demo/static/settingML.png)
