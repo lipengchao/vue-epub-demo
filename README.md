@@ -18,14 +18,8 @@
 
 ### 效果图
 
-![1](https://github.com/lipengchao/vue-epub-demo/raw/master/static/1.png)
+![settingFontSize](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingFontSize.png)![settingTheme](README.assets/settingTheme.png)
 
-![settingFontSize](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingFontSize.png)
-
-![settingTheme](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingTheme.png)
-
-![settingProgress](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingProgress.png)
-
-![settingFongtSize](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingFongtSize.png)
+![settingProgress](README.assets/settingProgress.png)![settingFongtSize](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingFongtSize.png)
 
 ![settingML](https://github.com/lipengchao/vue-epub-demo/raw/master/static/settingML.png)
